@@ -1,0 +1,60 @@
+.logList {
+  background-color: aqua;
+  border: 2px solid blue;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  height: 200px;
+  margin-left: 200px;
+  margin-top: 50px;
+  padding: 20px;
+  width: 1500px;
+}
+
+.dbSelect {
+  display: flex;
+  width: 300px;
+  font-size: 1.2rem;
+  background-color: aqua;
+  position: absolute;
+  left: 26%;
+  padding: 16px;
+}
+
+.searchBar {
+  width: 600px;
+  background-color: aqua;
+  position: absolute;
+  left: 42%;
+  margin-bottom: 50px;
+  padding: 12px;
+  font-size: 1.2rem;
+  border: 1px solid black;
+}
+
+input {
+  margin-left: 10px;
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+}
+
+.searchContainer {
+  background-color: beige;
+  margin-top: 10px;
+  padding: 100px;
+}
+
+.title {
+  color: black;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.main {
+  background-color: coral;
+}
